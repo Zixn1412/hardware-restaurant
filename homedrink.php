@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home drink</title>
+</head>
+<body>
+    
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- จะใช้บูสตค้องเปิดแท็บลิ้งบูสทุกครั้ง -->
+<!-- หัวเว็บไซต์สีขาว -->
+<header>
+  <header class="py-3 mb-4 border-bottom">
+    <div class="container d-flex flex-wrap justify-content-center">
+      <a class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <style>
+        table, th, td {
+        }
+          </style>
+        <body>
+        <table style="width: 40% hihg:60%">
+        <tr>
+        <span class="fs-4">FUANGFA DELIVERY</span>
+    <td><input type="button" onclick="history.back()" value="ย้อนกลับ"></td>
+  </tr>
+</table>
+</body> 
+</a>
+      <span class="fs-4">เครื่องดื่ม</span>
+    </div>
+  </header>  
+  <br>
+    <style>
+        .center-container {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .items {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .item {
+            width: 180px;
+            text-align: center;
+        }
+
+        .item img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .item p {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #333;
+        }
+    </style>
+</head>
+    <body>
+    <center><h1>ร้านดังใกล้คุณ</h1></center>
+    <br>
+    <div class="center-container">
+        <div class="items">
+            <div class="item">
+            <a href="#"><img src="/project.work/img/gincha.png"></a>
+                <p>สั่งชามาเลยครับ</p>
+              </div>
+
+            <div class="item">
+            <a href="#"><img src="/project.work/img/miku.png"></a>
+                <p>มิกุมิกุ - ชาผลไม้</p>
+              </div>
+
+            <div class="item">
+            <a href="#"><img src="/project.work/img/tofukun.png"></a>
+                <p>Tofu Tofu - kun</p>
+              </div>
+
+            <div class="item">
+            <a href="#"><img src="/project.work/img/cgc.png"></a>
+                <p>คาเฟ่แกรนด์เคนยอน</p>
+                <br>
+      </body>        
+      </div>
+        <body>
+    <div class="center-container">
+    <h1>ยอดฮิตเดือนนี้</h1>
+        <div class="items">
+            <div class="item">
+            <a href="#"><img src="/project.work/img/tomato.png"></a>
+                <p>tomatosan</p>
+              </div>
+
+            <div class="item">
+            <a href="#"><img src="/project.work/img/lemonade.png"></a>
+                <p>lemonade</p>
+                <br>
+              </div>
+              </body>        
+              </div>
+<center><h6> fuangfa.delivery@KhonKaen Vocational College </h6></center>
+</html>

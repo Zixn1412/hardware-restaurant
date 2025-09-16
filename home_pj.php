@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" 
+    content="IE=edge">
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <title>FUANGFA DELIVERY</title> 
+   
+</head>
+<body>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <!-- รูปที่ 1 -->
+      <div class="carousel-item active">
+        <img src="/project.work/img/FAUNGFA.DELI.png" class="d-block w-100" alt="Image 1">
+        <div class="carousel-caption d-none d-md-block">
+        </div>
+      </div>
+      <!-- รูปที่ 2 -->
+      <div class="carousel-item active">
+        <img src="/project.work/img/kungkung.bn.png" class="d-block w-100" alt="Image 1">
+        <div class="carousel-caption d-none d-md-block">
+        </div>
+      </div>
+      <!-- รูปที่ 3 -->
+      <div class="carousel-item active">
+        <img src="/project.work/img/padtai.png" class="d-block w-100" alt="Image 1">
+        <div class="carousel-caption d-none d-md-block">
+        </div>
+      </div>
+    <!-- ปุ่ม Previous -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <!-- ปุ่ม Next -->
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
+<!-- เนฟบาร์ -->
+    <nav class="navbar fixed-top navbar-expand-sm navbar-dark"style="background-color: #71b2e6;">
+
+  <div class="container-fluid">
+    <a class="navbar-brand" href=>fuangfa.delivery</a>
+    
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="home_pj.php"><i class="bi bi-house-fill"></i> หน้าแรก</a>
+        </li>
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-person-lines-fill"></i>
+             เกี่ยวกับเรา
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="homepj_admin.php"><i class="bi bi-person-workspace"></i> เฉพาะแอดมิน</a></li>
+
+    </div>
+  </div>
+</nav>
+</div>
+        </div>
+    </div>
+
+&nbsp;
+&nbsp;
+&nbsp;
+    <body>
+<center>
+    <h2> สมัครสมาชิก / เข้าสู่ระบบ </h2> <p>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+</p>
+
+<h5> ผู้ใช้งาน </h5>
+    <align="center" ><img src="/project/test.kvc/img/iicon3.png" width="150"></align>
+    <a href="form_cuspj.php">  
+<fome>  
+  <button type="button" class="btn btn-success btn-sm">สมัครสมาชิก</button></a> &nbsp; 
+  
+  <a href="login_cuspj.php">
+  <button type="button" class="btn btn-success btn-sm">Login</button></a>
+</button></fome> 
+<br>
+</br>
+
+</p>
+<h5> ร้านอาหาร </h5>
+    <align="center" ><img src="/project/test.kvc/img/rticon1.png" width="150"></align>
+    <a href="form_respj.php">
+<fome>  
+ 
+  <button type="button" class="btn btn-success btn-sm">สมัครสมาชิก</button></a> &nbsp; 
+  
+  <a href="login_respj.php">
+  <button type="button" class="btn btn-success btn-sm">Login</button></a>
+</button></fome>
+<br>
+</br>
+
+</p>
+<h5> Delivery </h5>
+    <align="center" ><img src="/project/test.kvc/img/rider2.png" width="150"></align>
+    <a href="form_delpj.php">
+<fome>  
+ 
+  <button type="button" class="btn btn-success btn-sm">สมัครสมาชิก</button></a> &nbsp; 
+  
+  <a href="login_delpj.php">
+  <button type="button" class="btn btn-success btn-sm">Login</button></a>
+</button></fome>
+<br>
+</br>
+
+
+<a href="customer.php" ></a>
+<br>
+<h6> fuangfa.delivery@KhonKaen Vocational College </h6>
+</br> 
+</div>
+</body>
